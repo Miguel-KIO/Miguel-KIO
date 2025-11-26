@@ -45,5 +45,6 @@ Mi formación académica se centra en los principios de la ingeniería de softwa
 </a>
 
 <a href="mailto:miguelolan164@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img alt="Correo electrónico" src="https://img.shields.io/badge/miguelolan164%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
